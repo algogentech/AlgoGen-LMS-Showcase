@@ -9,7 +9,6 @@ It includes details, previews, and a live demo link — but **no source code**, 
 
 ## 🚀 Live Preview
 🔗 **Website:** [https://www.algogenlms.com](https://www.algogenlms.com)  
-*(Replace with your actual live URL)*
 
 ---
 
