@@ -36,7 +36,7 @@ It includes details, previews, and a live demo link — but **no source code**, 
 | Name | GitHub |
 |------|---------|
 | **[MD Rehman Toufique]** | [https://github.com/mdtoufique](https://github.com/mdtoufique) |
-| **[Nayeemur Rahman Nayem]** | [https://github.com/code-with-nayem](https://github.com/code-with-nayem) |
+| **[Nayemur Rahman Nayem]** | [https://github.com/code-with-nayem](https://github.com/code-with-nayem) |
 
 ---
 
